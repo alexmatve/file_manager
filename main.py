@@ -2,6 +2,8 @@ import os
 import shutil
 
 
+# добавочный комментарий
+
 def create_directory(name):
     os.mkdir(name)
 
